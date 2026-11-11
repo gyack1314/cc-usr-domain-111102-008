@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "text": "\"老店修鞋\""
+  },
+  {
+    "id": "q2",
+    "text": "strasse AND café"
+  },
+  {
+    "id": "q3",
+    "text": "NOT \"修鞋\""
+  },
+  {
+    "id": "q4",
+    "text": "(abc OR film) AND NOT 湖岸"
+  }
+]

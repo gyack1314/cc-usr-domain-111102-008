@@ -1,0 +1,11 @@
+{
+  "name": "市井资料的Unicode位置倒排与原文定位",
+  "files": [
+    {
+      "path": "documents.json"
+    },
+    {
+      "path": "queries.json"
+    }
+  ]
+}
